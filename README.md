@@ -24,6 +24,7 @@ Funciona de forma que a criação de dois pipes, em que com isso permite a comun
 
 
 ## Resultados
+
 <img src="https://github.com/SamuelTunes/PurrinhaPipe/blob/main/imagens/pipe2.jpeg" alt="Jogo em andamento.">
 Jogo em andamento
 
